@@ -1,0 +1,14 @@
+BASE.md
+  h_0e3d6b6eb02b89 1-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9dc471e24418ac969a351aff1e5e4f54cecec4c8",
+  "prompts": {},
+  "humans": {
+    "h_0e3d6b6eb02b89": {
+      "author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
